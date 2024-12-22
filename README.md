@@ -27,3 +27,20 @@ Data Visualization and Analysis
 -   Visualizing the relationship between variables in high-dimensional data
 Game development
 - Calculation collisions and physical interactions in dynamic environments. 
+
+Types of simulations: 
+1. Mechanics and Dynamics 
+2. Collision Detection and Response
+3. Fluid Dynamics
+4. Projectile Motion 
+5. Vehicle Simulations 
+6. Particle Systems
+7. Cloth and Hair simulation 
+8. Destruction and Fracture 
+9. Springs and Joints 
+10. Gravitational Simulations 
+11. Electromagnetic Simulations
+12. Engineering simulations
+13. Environment Simulations 
+14. Games and Interactivity. 
+
